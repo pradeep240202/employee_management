@@ -1,0 +1,44 @@
+{
+    "HR": [
+        {
+            "name": "Ravi Sharma",
+            "id": "001",
+            "title": "Manager",
+            "department": "HR"
+        },
+        {
+            "name": "Neha Patel",
+            "id": "002",
+            "title": "Assistant",
+            "department": "HR"
+        },
+        {
+            "name": "p",
+            "id": "1",
+            "title": "p",
+            "department": "HR"
+        }
+    ],
+    "Finance": [
+        {
+            "name": "Amit Kumar",
+            "id": "003",
+            "title": "Accountant",
+            "department": "Finance"
+        }
+    ],
+    "Marketing": [
+        {
+            "name": "Vikram Joshi",
+            "id": "004",
+            "title": "Marketing Manager",
+            "department": "Marketing"
+        },
+        {
+            "name": "Anjali Sharma",
+            "id": "005",
+            "title": "Marketing Assistant",
+            "department": "Marketing"
+        }
+    ]
+}
